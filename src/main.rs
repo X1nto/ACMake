@@ -19,8 +19,6 @@ fn main() -> Result<(), String> {
             language,
             folder,
         } => {
-            println!("{:?}, {:?}, {:?}", name, language, folder);
-
             let folder_name = match folder {
                 Some(folder) => folder,
                 None => name.clone(),
