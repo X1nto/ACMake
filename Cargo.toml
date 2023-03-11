@@ -6,8 +6,8 @@ authors = ["Xinto"]
 license = "GPL-3.0-only"
 description = "A cargo-like tool for CMake projects"
 readme = "README.md"
-homepage = "https://github.com/X1nto/acmake"
-repository = "https://github.com/X1nto/acmake"
+homepage = "https://github.com/X1nto/ACMake"
+repository = "https://github.com/X1nto/ACMake"
 keywords = ["cmake", "c", "c++", "generator", "cargo"]
 categories = ["command-line-utilities"]
 
